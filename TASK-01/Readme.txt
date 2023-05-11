@@ -1,1 +1,0 @@
-the website works best in 110% resolution as it is responsive to some extent.
